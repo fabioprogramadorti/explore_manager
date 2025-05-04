@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🌍 Plataforma de Turismo — Backend (NestJS)
 
 ![NestJS](https://img.shields.io/badge/NestJS-202023?style=for-the-badge&logo=nestjs&logoColor=E0234E)
