@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 0f17e57 (info server)
 # 🌍 Plataforma de Turismo — Backend (NestJS)
 
 ![NestJS](https://img.shields.io/badge/NestJS-202023?style=for-the-badge&logo=nestjs&logoColor=E0234E)
@@ -148,11 +145,7 @@ nest g controller destinations
 **Fabio M Santos** — *Equipe Ashira Tech* ✈️  
 🔗 [github.com/fabioprogramadorti](https://github.com/fabioprogramadorti)
 
----
-<<<<<<< HEAD
 
 # explore_manager
 O ExploreManager é uma plataforma SaaS voltada para empresas de turismo que desejam digitalizar a gestão de seus pacotes, reservas e atendimentos. A solução permite que agências ofereçam experiências turísticas personalizadas, com controle total sobre passeios, clientes, reservas e relatórios.
 
-=======
->>>>>>> 0f17e57 (info server)
